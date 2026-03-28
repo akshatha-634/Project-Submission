@@ -23,4 +23,4 @@ container monitoring, user permission management, and firewall configuration.
 Akshatha Poojari
 
 ## Walkthrough Video
-[Click here to watch](https://drive.google.com/file/d/1MtH4PXu1iH6779Iqc06CIr2D0fjxU-Ih/view?usp=drive_link)
+[Click here to watch](https://drive.google.com/file/d/1rJcbUYQGmLMRJk3m9eVXovg5R5-v9qQh/view?usp=drive_link)
