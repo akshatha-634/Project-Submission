@@ -9,7 +9,7 @@ Configure UFW firewall to allow only required services and restrict unauthorized
 sudo apt install ufw -y
 
 ### 2. Allow SSH only from specific IP
-sudo ufw allow from 172.27.49.24 to any port 22
+sudo ufw allow from 192.168.56.1 to any port 22
 
 ### 3. Allow HTTP
 sudo ufw allow 80
